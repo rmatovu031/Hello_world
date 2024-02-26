@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello from UCT"
+echo "Hello AFRICA"
